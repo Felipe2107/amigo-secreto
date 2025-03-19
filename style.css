@@ -28,6 +28,7 @@ body {
     flex-direction: column;
     height: 100%;
     width: 100%;
+    
 }
 
 /* Banner */
@@ -160,3 +161,4 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
