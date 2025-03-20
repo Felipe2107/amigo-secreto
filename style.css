@@ -209,3 +209,11 @@ ul {
         font-size: 14px;
     }
 }
+
+@media (max-width: 768px) {
+    .header-banner img {
+        max-width: 50%; /* Reduz o tamanho da imagem */
+        height: auto; /* Mantém a proporção */
+    }
+}
+
